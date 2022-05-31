@@ -8,9 +8,9 @@ st.set_page_config(page_title="My Webpage", page_icon=":tada:", layout="wide")
 def local_css(file_name):
 	with open(file_name) as f:
 		st.markdown(f"<style>{f.read()}</style", unsafe_allow_html=True)
-local_css("style/style.css.txt")
+local_css("style.css.txt")
 
-img_contact_form = Image.open("image.png/programmer-working-with-program-code-picture-id1075599562-1.jpg")
+img_contact_form = Image.open("programmer-working-with-program-code-picture-id1075599562-1.jpg")
 
 with st.container():
 
