@@ -14,11 +14,11 @@ img_contact_form = Image.open("programmer-working-with-program-code-picture-id10
 
 with st.container():
 
-	st.subheader("Hi, Iam Henry Junior Yiga :wave:")
-	st.title(" A Tech Enthusiast from Uganda")
+	st.subheader("Hola!, Iam Henry Junior Yiga :wave:")
+	st.title(" A Data Scientist from Uganda")
 	st.write("lam a scientist and public health expert with scientific, programming and language skills.")
 	st.write("To find out more about me i have shared a link to my linkedin account below")
-	st.write("I am also passionate about tech and have skills in python,Django,C#,ASP.NETCORE,Git and mySQL my github is shared below.")
+	st.write("I am also passionate about tech and have skills in python,Django,C#,ASP.NETCORE,Git,mySQL and MachineLearning; my github is shared below.")
 	st.write(" Learn more on linkedin > (https://linkedin.com/in/henry-junior-yiga-6b691b231)")
 	st.write(" Learn more on github > (https://github.com/naftie22)")
 
