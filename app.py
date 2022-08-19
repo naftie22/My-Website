@@ -15,10 +15,10 @@ img_contact_form = Image.open("programmer-working-with-program-code-picture-id10
 with st.container():
 
 	st.subheader("Hola!, Iam Henry Junior Yiga :wave:")
-	st.title(" A Data Scientist from Uganda")
-	st.write("lam a scientist and public health expert with scientific, programming and language skills.")
+	st.title(" A Data Professional from Uganda")
+	st.write("lam a buisiness intelligence expert, public health expert with scientific, programming and language skills.")
 	st.write("To find out more about me i have shared a link to my linkedin account below")
-	st.write("I am also passionate about tech and have skills in python,Django,C#,ASP.NETCORE,Git,mySQL and MachineLearning; my github is shared below.")
+	st.write("I am also passionate about tech and have skills in python,R,C#,PowerBI,Git,mySQL and MachineLearning; my github is shared below.")
 	st.write(" Learn more on linkedin > (https://linkedin.com/in/henry-junior-yiga-6b691b231)")
 	st.write(" Learn more on github > (https://github.com/naftie22)")
 
@@ -33,7 +33,7 @@ with st.container():
 			Am a tri-lingual passionate biochemist(Masters Degree) fluent in English, French and Spanish.
 			I love adventure, travel reading & writing. I recently published a children's graphics book sensitising about
 			covid-19 and future pandemics. If interested in the book reach out to me 'nafti.yiga@gmail.com' 
-			 I also picked up interest in tech and programming; with skills in python and C# with their respective frameworks and some of my projects so far 
+			 I also picked up interest in tech and programming; with skills in python,R, C# and BI tools PowerBI  and some of my projects so far 
 			can be found on my github account whose link i put above.
 		
 			"""
