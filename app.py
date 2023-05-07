@@ -9,7 +9,7 @@ def local_css(file_name):
         
 local_css("style.css.txt")
 
-img_contact_form = Image.open("lab_pic.avif")
+img_contact_form = Image.open("lab_pic.jpg")
 
 with st.container():
     st.subheader("About Me")
